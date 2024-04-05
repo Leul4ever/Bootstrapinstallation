@@ -1,13 +1,39 @@
 #title{
     background-color:#ff4c68;
+    color: #fff;
+}
+.navbar{
+    padding-bottom: 4.5rem;
 }
 .container-fluid{
 padding: 3% 15%;
     
 }
-.promotion{
+h1{
     font-family: Robot-dark;
     line-height: 1.5;
-    font-size: 3rem;
+    font-size: 4rem;
+}
+.navbar-brand{
+    font-family:'Ubuntu' ;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color:white;
+
+}
+.nav-link{
+    font-family: Robot;
+    color:#fff;
+}
+.linko {
+    margin-left: auto;
+    padding: 0 35px;
+
+}
+.Downloadbtn{
+    margin:  5% 3% 5% 0;
+}
+.title-image{
+    width: 60%;
 }
 
