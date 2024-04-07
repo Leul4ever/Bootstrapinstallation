@@ -14,6 +14,13 @@ h1{
     line-height: 1.5;
     font-size: 4rem;
 }
+h3{
+    font-family: Roboto-dark;
+    font-size: 1.5rem;
+}
+p{
+color:#8f8f8f;
+}
 .navbar-brand{
     font-family:'Ubuntu' ;
     font-size: 2.5rem;
@@ -35,5 +42,20 @@ h1{
 }
 .title-image{
     width: 60%;
+    transform: rotate(25deg);
 }
+#features{
+    padding: 7% 15%;
 
+}
+.features-box{
+ text-align: center;
+ padding: 5%;
+} 
+.icon{
+    color:#ef8172;
+
+}
+.icon:hover{
+color:#ff4c68;
+}
